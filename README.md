@@ -16,4 +16,4 @@ The 2 scripts `chat_llava.py` and `chat_molmo.py` can be used to download the SC
 
 ### Coming soon
 
-Arxiv, Evaluation scripts for benchmarks included in the paper.
+Arxiv, Evaluation scripts for benchmarks included in the paper, SCRAMBLe's synthetic training dataset.
