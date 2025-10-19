@@ -1,6 +1,6 @@
 # SCRAMBLe
 
-This is the main repository containing code for the paper "SCRAMBLe : Enhancing Multimodal LLM Compositionality with Synthetic Preference Data". [arxiv](https://arxiv.org/abs/2504.04740).
+This is the main repository containing code for the paper "SCRAMBLe : Enhancing Multimodal LLM Compositionality with Synthetic Preference Data". \[[arxiv](https://arxiv.org/abs/2504.04740)\] \[[poster](https://samarth4149.github.io/projects/scramble/poster.pdf)\].
 
 ### Install
 
